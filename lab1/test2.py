@@ -9,4 +9,3 @@ print("hello")
 
 #test for update on git
 print("update 1") 
-print("update 2") 

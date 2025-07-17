@@ -1,5 +1,5 @@
 # phys440-project
-Introduction to data analysis and machine learning. 
+Data analysis and machine learning. 
 The aim of this study is to evaluate the interpretability of a CNN that detects pneumonia from chest X-rays.
 We will utilize a dataset consisting of 5,232 labeled chest X-rays images of pediatric patients,
 ages 1 to 5, acquired at the Guangzhou Women and Children’s Medical Center. Prior work using
